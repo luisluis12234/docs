@@ -9,7 +9,7 @@ redirect_from:
   - /articles/github-privacy-statement/
 versions:
   free-pro-team: '*'
----
+---luis12234
 
 Effective date: December 19, 2020
 
